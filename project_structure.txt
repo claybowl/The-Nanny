@@ -1,0 +1,20 @@
+clawd-agent/
+├── src/
+│   ├── api/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   └── routes/
+│   │       └── voice.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   ├── agent.py
+│   │   └── system_actions.py
+│   └── voice/
+│       ├── __init__.py
+│       └── whisper_handler.py
+├── tests/
+│   └── __init__.py
+├── .env.example
+├── .gitignore
+├── requirements.txt
+└── README.md 
