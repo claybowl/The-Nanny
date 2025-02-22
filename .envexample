@@ -1,0 +1,10 @@
+# API Configuration
+CLAWD_API_HOST=localhost
+CLAWD_API_PORT=8000
+
+# JWT Secret (if implementing authentication)
+# JWT_SECRET_KEY=your-secret-key 
+
+
+CLAWD_API_HOST=localhost
+CLAWD_API_PORT=8000
